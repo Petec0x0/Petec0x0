@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am a software developer and data science enthusiast.
+Computer Science Student @ GOUNI.
+📫 How to reach me: https://twitter.com/Petec0x0
 
 <!--
 **Petec0x0/Petec0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
