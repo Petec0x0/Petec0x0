@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a software developer and data science enthusiast.
+I am a software developer and Machine Learning enthusiast.
 Computer Science Student @ GOUNI. I am passionate about technology and constant learning.
 <p>📫 How to reach me: <a href='https://twitter.com/Petec0x0'>Twitter</a> | <a href='https://www.linkedin.com/in/onyedikachi-udeh-671a46184/'>Linkedin</a></p>
 
